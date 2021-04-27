@@ -27,7 +27,6 @@
     "@fortawesome/react-fontawesome": "^0.1.14",
     "autoprefixer": "^10.2.5",
     "babel-loader": "^8.2.2",
-    "bootstrap": "^5.0.0-beta3",
     "bs58": "^4.0.1",
     "buffer": "^6.0.3",
     "classnames": "^2.3.1",
